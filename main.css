@@ -52,3 +52,15 @@ img {
 .article-img-1 {
     width: 35%;
 }
+
+form {
+    max-width: 350px;
+}
+form div {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+form input {
+    padding: 5px;
+}
