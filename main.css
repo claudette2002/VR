@@ -23,12 +23,12 @@ header {
     justify-content: space-between;
     align-items: center;
     padding-left: 4rem;
-    padding-right: 5rem;
+    padding-right: 4rem;
 }
 
 /* header navigation styles */
 header ul {
-    list-style: none;
+    list-style: kannada;
     display: flex;
     flex-wrap: wrap;
 }
