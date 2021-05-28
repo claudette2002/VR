@@ -24,6 +24,7 @@ header {
     align-items: center;
     padding-left: 4rem;
     padding-right: 4rem;
+    padding-block: 2rem;
 }
 
 /* header navigation styles */
