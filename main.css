@@ -22,8 +22,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 /* header navigation styles */
