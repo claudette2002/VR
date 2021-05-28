@@ -55,7 +55,7 @@ li a:hover {
 
 /* Main page content */
 .content {
-    padding: 2rem;
+    padding: 3rem;
     line-height: 1.5;
 }
 
@@ -83,7 +83,7 @@ form {
     max-width: 350px;
 }
 form div {
-    padding: 1rem;
+    padding: 2rem;
     display: flex;
     flex-direction: column;
 }
