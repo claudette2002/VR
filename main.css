@@ -12,7 +12,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 2rem 6rem;
+    padding: 2rem 4rem;
 }
 
 header {
@@ -22,13 +22,13 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 4rem;
-    padding-right: 4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 /* header navigation styles */
 header ul {
-    list-style: kannada;
+    list-style:none; 
     display: flex;
     flex-wrap: wrap;
 }
